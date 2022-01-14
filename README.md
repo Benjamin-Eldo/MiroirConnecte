@@ -4,7 +4,7 @@
 
 **Contributeurs :**  
 ⭐ [GRANDY Guillaume](https://github.com/guillaumeGRANDY)  
-⭐ FORESTIER Alexis  
+⭐ [FORESTIER Alexis](https://github.com/DRACOX2500)  
 ⭐ [VADUREL Benjamin](https://github.com/Benjamin-Eldo)  
 
 **À propos de notre projet :**  
