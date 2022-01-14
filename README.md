@@ -13,7 +13,7 @@ C'est un projet que nous avons réalisé dans le cadre d'une "Semaine Spéciale"
 _Les fonctionnalités :_  
 ✔️ Page d'accueil  
 &emsp;&emsp;👉 Affichage des informations 📰  
-&emsp;&emsp;👉 Affichage de l'heure 🕐  
+&emsp;&emsp;👉 Affichage de l'heure et de la date 🕐  
 &emsp;&emsp;👉 Affichage de la météo ⛅  
 ✔️ Menu  
 &emsp;&emsp;👉 Possibilité de configurer la page d'accueil ⚙️  
