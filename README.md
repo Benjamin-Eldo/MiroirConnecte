@@ -26,4 +26,3 @@ _Les fonctionnalités :_
 &emsp;&emsp;👉 Créer des rappels 🏁  
 &emsp;&emsp;👉 Clavier virtuel pour saisir un intitulé ⌨️   
 &emsp;&emsp;👉 Affichage sur la page d'accueil 🖥️  
-
