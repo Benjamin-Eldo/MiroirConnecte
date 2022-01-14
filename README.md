@@ -16,8 +16,8 @@ _Les fonctionnalités :_
 &emsp;&emsp;👉 Affichage de l'heure 🕐  
 &emsp;&emsp;👉 Affichage de la météo ⛅  
 ✔️ Menu  
-&emsp;&emsp;👉 Possibilité de configurer la page d'accueil  
-&emsp;&emsp;👉 Affichage de statistique sur l'utilisation du miroir (temps)  
+&emsp;&emsp;👉 Possibilité de configurer la page d'accueil ⚙️  
+&emsp;&emsp;👉 Affichage de statistique sur l'utilisation du miroir (temps) :  
 ✔️ Système de photo  
 &emsp;&emsp;👉 Prendre des photos  
 &emsp;&emsp;👉 Consulter les photos  
