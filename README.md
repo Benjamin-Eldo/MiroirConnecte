@@ -2,10 +2,14 @@
 ## Projet de fin de première année de DUT Informatique
 ### Fait à l'IUT Lyon 1 (Site de Bourg-en-Bresse) : [IUT Lyon 1](https://iut.univ-lyon1.fr/)
 
+*** 
+
 **Contributeurs :**  
 ⭐ [GRANDY Guillaume](https://github.com/guillaumeGRANDY)  
 ⭐ [FORESTIER Alexis](https://github.com/DRACOX2500)  
 ⭐ [VADUREL Benjamin](https://github.com/Benjamin-Eldo)  
+
+***
 
 **À propos de notre projet :**  
 C'est un projet que nous avons réalisé dans le cadre d'une "Semaine Spéciale" à l'Université Lyon 1 Claude Bernard. Il consiste au développement d'un logiciel pour un miroir connecté qui est fait pour fonctionner sur un Raspberry Pi. L'application peut utiliser des capteurs connectés au Raspberry tel qu'un capteur de mouvement et un capteur de luminosité, mais aussi d'autres périphériques comme une caméra ou une LED. Ce projet avait principalement pour objectif la mise en oeuvre d'un projet Internet Of Things et l'utilisation de capteur.
